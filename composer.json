@@ -1,0 +1,6 @@
+{
+  "packagist": true,
+  "require": {
+    "guzzlehttp/guzzle": "6.*"
+  }
+}
