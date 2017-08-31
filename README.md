@@ -11,6 +11,8 @@
  
 **Config.json**
 ```javascript
- { "hhToken": "Получить токен можно здесь https://dev.hh.ru/admin", 
-   "resumeLink":"Ссылка на резюме hh" }
+ { 
+   "hhToken": "Получить токен можно здесь https://dev.hh.ru/admin", 
+   "resumeLink":"Ссылка на резюме hh" 
+  }
  ```
